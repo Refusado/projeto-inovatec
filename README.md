@@ -1,12 +1,15 @@
 # Inovatec - Trabalho de conclusão de curso
 
 Grupo: Inova Bem
+
 Projeto: **Eita! E agora?**
 
 ## Integrantes do grupo
  
 Equipe executiva: **[Renan Freitas](https://www.linkedin.com/in/refu/)**, **[Victor Souza](https://www.linkedin.com/in/victorsouzalkd/)** e **[Vinicius Fernandes](https://www.linkedin.com/in/vinifsa)**.
+
 Equipe operacional: **[Janiele Justino](https://www.linkedin.com/in/janielejustino/)**.
+
 Equipe de marketing: **[Enock Soares](https://www.linkedin.com/in/enocksoares/)** e **[Lorena Santana](https://www.linkedin.com/in/lorenasantanasilva/)**.
 
 ## Passos
@@ -66,6 +69,7 @@ Apresentação do projet.
 ## Slide
 
 [Link para visualização em formato power point aqui](https://docs.google.com/presentation/d/1Yktg2RjbShb6gXPU9sxAClJI_f9-OfrA/edit?usp=sharing&ouid=104625056030151503163&rtpof=true&sd=true).
+
 [Link para visualização em formato PDF aqui](https://drive.google.com/file/d/1uoP_S2o2n2Lib1Lxrai-i2PqLhSYMTOV/view?usp=sharing).
 
 ## Resumo de desenvolvimento
